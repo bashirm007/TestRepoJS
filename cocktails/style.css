@@ -1,0 +1,12 @@
+.modal {
+  background-color: #eee;
+  position: absolute;
+  left: 30%;
+  bottom: 20%;
+  width: 500px;
+  height: 500px;
+}
+
+.none {
+  display: none;
+}
